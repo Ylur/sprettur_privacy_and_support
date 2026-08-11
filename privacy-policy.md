@@ -80,4 +80,4 @@ a new date at the top.
 
 ## Contact
 
-Questions about privacy in Sprettur: **lokaverkefni0@gmail.com**
+Questions about privacy in Sprettur: **spretturapp@gmail.com**
