@@ -2,7 +2,7 @@
 
 Sprettur records workouts and replays your routes as a 3D satellite flyover.
 
-**Contact:** lokaverkefni0@gmail.com — questions, bugs and requests all welcome.
+**Contact:** spretturapp@gmail.com — questions, bugs and requests all welcome.
 Please say which device and which version of iOS or watchOS you're on.
 
 ## Common questions
